@@ -1,0 +1,169 @@
+2025-05-27 22:19:58 - {
+    "paso": "Inicio del proceso",
+    "username": "admin",
+    "password_length": 14,
+    "query": "SELECT id_usuario, username, password_hash, rol FROM usuarios WHERE username = ?",
+    "bind_param": true,
+    "execute": true,
+    "num_rows": 1,
+    "usuario_encontrado": "admin",
+    "hash_almacenado": "$2y$10$VxnSJfsB3ToWfY8EufvDsuNHKLvbOcURrFDpfMyUgInZDzls5u25m",
+    "hash_proporcionado": "$2y$10$oyWh\/mToKamo64MGaOSiRu.6Y.y\/Lq0OXt7lsx1DUOOHpRoeD7eD.",
+    "error": "Contrase\u00f1a no coincide"
+}
+2025-05-27 22:20:15 - {
+    "paso": "Inicio del proceso",
+    "username": "admin",
+    "password_length": 14,
+    "query": "SELECT id_usuario, username, password_hash, rol FROM usuarios WHERE username = ?",
+    "bind_param": true,
+    "execute": true,
+    "num_rows": 1,
+    "usuario_encontrado": "admin",
+    "hash_almacenado": "$2y$10$VxnSJfsB3ToWfY8EufvDsuNHKLvbOcURrFDpfMyUgInZDzls5u25m",
+    "hash_proporcionado": "$2y$10$erxswBNJz9RZd2Q.dd\/cyuFd1zdTQ1OKIs3pU.Oy7tFcT.zsH7jCm",
+    "error": "Contrase\u00f1a no coincide"
+}
+2025-05-27 22:20:30 - {
+    "paso": "Inicio del proceso",
+    "username": "admin",
+    "password_length": 14,
+    "query": "SELECT id_usuario, username, password_hash, rol FROM usuarios WHERE username = ?",
+    "bind_param": true,
+    "execute": true,
+    "num_rows": 1,
+    "usuario_encontrado": "admin",
+    "hash_almacenado": "$2y$10$VxnSJfsB3ToWfY8EufvDsuNHKLvbOcURrFDpfMyUgInZDzls5u25m",
+    "hash_proporcionado": "$2y$10$Ua6Fx39tzJxQDKQUtxAV\/.zY.TfTgxRf7tOiqtDEtr87KudQvSLDC",
+    "error": "Contrase\u00f1a no coincide"
+}
+2025-05-27 22:20:37 - {
+    "paso": "Inicio del proceso",
+    "username": "admin",
+    "password_length": 14,
+    "query": "SELECT id_usuario, username, password_hash, rol FROM usuarios WHERE username = ?",
+    "bind_param": true,
+    "execute": true,
+    "num_rows": 1,
+    "usuario_encontrado": "admin",
+    "hash_almacenado": "$2y$10$VxnSJfsB3ToWfY8EufvDsuNHKLvbOcURrFDpfMyUgInZDzls5u25m",
+    "hash_proporcionado": "$2y$10$YXH0UWGM2I334m.dXtLJqejRuluWdWx0nGq29zr1kPvEGSko71n3i",
+    "error": "Contrase\u00f1a no coincide"
+}
+2025-05-27 22:21:21 - {
+    "paso": "Inicio del proceso",
+    "username": "admin",
+    "password_length": 14,
+    "query": "SELECT id_usuario, username, password_hash, rol FROM usuarios WHERE username = ?",
+    "bind_param": true,
+    "execute": true,
+    "num_rows": 1,
+    "usuario_encontrado": "admin",
+    "hash_almacenado": "$2y$10$2EwIyHp7bsE4hLlprsNRF.R\/sx.zc06hnHn.x6qqxUhL4aWxnQc0q",
+    "hash_proporcionado": "$2y$10$V1fux8Nrd9iaZ293Lo1.0Oj61imSW1PqBV7nOw8\/fmDgTSnZTU\/fS",
+    "error": "Contrase\u00f1a no coincide"
+}
+2025-05-27 22:21:29 - {
+    "paso": "Inicio del proceso",
+    "username": "admin",
+    "password_length": 60,
+    "query": "SELECT id_usuario, username, password_hash, rol FROM usuarios WHERE username = ?",
+    "bind_param": true,
+    "execute": true,
+    "num_rows": 1,
+    "usuario_encontrado": "admin",
+    "hash_almacenado": "$2y$10$2EwIyHp7bsE4hLlprsNRF.R\/sx.zc06hnHn.x6qqxUhL4aWxnQc0q",
+    "hash_proporcionado": "$2y$10$rLno1qD002NAD5tJEzjGeO7jjz7hCvW.cGWJFwmXhAipF9zXjnu5a",
+    "error": "Contrase\u00f1a no coincide"
+}
+2025-05-27 22:21:39 - {
+    "paso": "Inicio del proceso",
+    "username": "admin",
+    "password_length": 14,
+    "query": "SELECT id_usuario, username, password_hash, rol FROM usuarios WHERE username = ?",
+    "bind_param": true,
+    "execute": true,
+    "num_rows": 1,
+    "usuario_encontrado": "admin",
+    "hash_almacenado": "$2y$10$2EwIyHp7bsE4hLlprsNRF.R\/sx.zc06hnHn.x6qqxUhL4aWxnQc0q",
+    "hash_proporcionado": "$2y$10$k87UG8\/rNUmL19\/zFTE2R.5GbYZGf7o6qSpcyS6JowZ2puHnE0iA.",
+    "error": "Contrase\u00f1a no coincide"
+}
+2025-05-27 22:21:57 - {
+    "paso": "Inicio del proceso",
+    "username": "admin",
+    "password_length": 14,
+    "query": "SELECT id_usuario, username, password_hash, rol FROM usuarios WHERE username = ?",
+    "bind_param": true,
+    "execute": true,
+    "num_rows": 1,
+    "usuario_encontrado": "admin",
+    "hash_almacenado": "$2y$10$2EwIyHp7bsE4hLlprsNRF.R\/sx.zc06hnHn.x6qqxUhL4aWxnQc0q",
+    "hash_proporcionado": "$2y$10$mf2ZQ6QS8jukTI9x3B9dMe3dq4MmVeNHY1.g97teYLh5jyp6shHa.",
+    "error": "Contrase\u00f1a no coincide"
+}
+2025-05-27 22:22:00 - {
+    "paso": "Inicio del proceso",
+    "username": "admin",
+    "password_length": 14,
+    "query": "SELECT id_usuario, username, password_hash, rol FROM usuarios WHERE username = ?",
+    "bind_param": true,
+    "execute": true,
+    "num_rows": 1,
+    "usuario_encontrado": "admin",
+    "hash_almacenado": "$2y$10$2EwIyHp7bsE4hLlprsNRF.R\/sx.zc06hnHn.x6qqxUhL4aWxnQc0q",
+    "hash_proporcionado": "$2y$10$oyDvGI6zJWK9hUpjL1Thauto08fP5Mwau8xm4DGhI25MBgA0GnsMW",
+    "error": "Contrase\u00f1a no coincide"
+}
+2025-05-27 22:22:08 - {
+    "paso": "Inicio del proceso",
+    "username": "admin",
+    "password_length": 14,
+    "query": "SELECT id_usuario, username, password_hash, rol FROM usuarios WHERE username = ?",
+    "bind_param": true,
+    "execute": true,
+    "num_rows": 1,
+    "usuario_encontrado": "admin",
+    "hash_almacenado": "$2y$10$2EwIyHp7bsE4hLlprsNRF.R\/sx.zc06hnHn.x6qqxUhL4aWxnQc0q",
+    "hash_proporcionado": "$2y$10$WyrzdEeelYavRAO6u4E5HOyApAUUSyBEMRgxvwZ343iVHFib0LbAG",
+    "error": "Contrase\u00f1a no coincide"
+}
+2025-05-27 22:22:13 - {
+    "paso": "Inicio del proceso",
+    "username": "admin",
+    "password_length": 14,
+    "query": "SELECT id_usuario, username, password_hash, rol FROM usuarios WHERE username = ?",
+    "bind_param": true,
+    "execute": true,
+    "num_rows": 1,
+    "usuario_encontrado": "admin",
+    "hash_almacenado": "$2y$10$2EwIyHp7bsE4hLlprsNRF.R\/sx.zc06hnHn.x6qqxUhL4aWxnQc0q",
+    "hash_proporcionado": "$2y$10$7qsPUeru0vVfa.zY.9Ztku3bUGaEcmeEiEQGn2aGMePSsuj0slz16",
+    "error": "Contrase\u00f1a no coincide"
+}
+2025-05-27 22:23:12 - {
+    "paso": "Inicio del proceso",
+    "username": "admin",
+    "password_length": 14,
+    "query": "SELECT id_usuario, username, password_hash, rol FROM usuarios WHERE username = ?",
+    "bind_param": true,
+    "execute": true,
+    "num_rows": 1,
+    "usuario_encontrado": "admin",
+    "hash_almacenado": "$2y$10$2EwIyHp7bsE4hLlprsNRF.R\/sx.zc06hnHn.x6qqxUhL4aWxnQc0q",
+    "hash_proporcionado": "$2y$10$pCPA6knBic02PYp18SyeVeezmowC1kcsGrez2PLKaQVbNRXuEcO\/q",
+    "error": "Contrase\u00f1a no coincide"
+}
+2025-05-28 01:32:03 - {
+    "paso": "Inicio del proceso",
+    "username": "admin",
+    "password_length": 14,
+    "query": "SELECT id_usuario, username, password_hash, rol FROM usuarios WHERE username = ?",
+    "bind_param": true,
+    "execute": true,
+    "num_rows": 1,
+    "usuario_encontrado": "admin",
+    "hash_almacenado": "$2y$10$2EwIyHp7bsE4hLlprsNRF.R\/sx.zc06hnHn.x6qqxUhL4aWxnQc0q",
+    "hash_proporcionado": "$2y$10$Nl7aX3s.m8TfjzoHlEVTeutfe5mw5uRkGLEtYPJxbxvXeAHqnH9w.",
+    "error": "Contrase\u00f1a no coincide"
+}
