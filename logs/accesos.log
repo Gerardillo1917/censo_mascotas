@@ -1,0 +1,91 @@
+{
+    "fecha": "2025-05-27 22:19:58",
+    "estado": "FALLO",
+    "ip": "::1",
+    "user_id": 1,
+    "razon": "Contrase\u00f1a incorrecta",
+    "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Safari\/537.36 Edg\/136.0.0.0"
+}
+{
+    "fecha": "2025-05-27 22:20:15",
+    "estado": "FALLO",
+    "ip": "::1",
+    "user_id": 1,
+    "razon": "Contrase\u00f1a incorrecta",
+    "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Safari\/537.36 Edg\/136.0.0.0"
+}
+{
+    "fecha": "2025-05-27 22:20:30",
+    "estado": "FALLO",
+    "ip": "::1",
+    "user_id": 1,
+    "razon": "Contrase\u00f1a incorrecta",
+    "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Safari\/537.36 Edg\/136.0.0.0"
+}
+{
+    "fecha": "2025-05-27 22:20:37",
+    "estado": "FALLO",
+    "ip": "::1",
+    "user_id": 1,
+    "razon": "Contrase\u00f1a incorrecta",
+    "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Safari\/537.36 Edg\/136.0.0.0"
+}
+{
+    "fecha": "2025-05-27 22:21:21",
+    "estado": "FALLO",
+    "ip": "::1",
+    "user_id": 1,
+    "razon": "Contrase\u00f1a incorrecta",
+    "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Safari\/537.36 Edg\/136.0.0.0"
+}
+{
+    "fecha": "2025-05-27 22:21:29",
+    "estado": "FALLO",
+    "ip": "::1",
+    "user_id": 1,
+    "razon": "Contrase\u00f1a incorrecta",
+    "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Safari\/537.36 Edg\/136.0.0.0"
+}
+{
+    "fecha": "2025-05-27 22:21:39",
+    "estado": "FALLO",
+    "ip": "::1",
+    "user_id": 1,
+    "razon": "Contrase\u00f1a incorrecta",
+    "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Safari\/537.36 Edg\/136.0.0.0"
+}
+[2025-05-27 22:21:57] FALLO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Contraseña incorrecta
+[2025-05-27 22:22:00] FALLO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Contraseña incorrecta
+[2025-05-27 22:22:08] FALLO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Contraseña incorrecta
+[2025-05-27 22:22:13] FALLO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Contraseña incorrecta
+[2025-05-27 22:23:12] FALLO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Contraseña incorrecta
+[2025-05-27 22:23:18] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: 
+[2025-05-28 01:32:03] FALLO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Contraseña incorrecta
+[2025-05-29 09:33:08] ÉXITO - Intento de acceso - IP: ::1 - UserID: 7 - Razón: Usuario desactivado por admin
+[2025-05-29 09:33:09] ÉXITO - Intento de acceso - IP: ::1 - UserID: 6 - Razón: Usuario desactivado por admin
+[2025-05-29 09:33:11] ÉXITO - Intento de acceso - IP: ::1 - UserID: 5 - Razón: Usuario desactivado por admin
+[2025-05-29 09:33:13] ÉXITO - Intento de acceso - IP: ::1 - UserID: 4 - Razón: Usuario desactivado por admin
+[2025-05-29 09:33:15] ÉXITO - Intento de acceso - IP: ::1 - UserID: 3 - Razón: Usuario desactivado por admin
+[2025-05-29 09:33:17] ÉXITO - Intento de acceso - IP: ::1 - UserID: 2 - Razón: Usuario desactivado por admin
+[2025-06-05 02:34:09] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Login exitoso en panel de administración
+[2025-06-05 02:34:28] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Usuario creado: registrado (ID: 20)
+[2025-06-05 02:36:13] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Comentario añadido para usuario ID: 20
+[2025-06-05 02:37:24] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Login exitoso en panel de administración
+[2025-06-05 02:38:11] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Usuario creado: test22 (ID: 21)
+[2025-06-05 02:38:23] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Comentario añadido para usuario ID: 21
+[2025-06-05 10:13:58] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Login exitoso en panel de administración
+[2025-06-05 10:42:56] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Login exitoso en panel de administración
+[2025-06-05 11:51:19] FALLO - Intento de acceso - IP: ::1 - UserID: null - Razón: Intento de login en panel admin con rol no autorizado: test22
+[2025-06-05 11:51:23] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Login exitoso en panel de administración
+[2025-06-05 12:26:44] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Exportación de usuarios a CSV
+[2025-06-05 13:56:27] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Logout exitoso desde el panel de administración
+[2025-06-05 14:10:56] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Logout exitoso desde el panel de administración
+[2025-06-05 14:14:13] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Login exitoso en panel de administración
+[2025-06-05 14:15:48] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Usuario creado: azucenarey (ID: 22)
+[2025-06-05 14:16:51] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Comentario añadido para usuario ID: 22
+[2025-06-07 23:52:49] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Logout exitoso desde el panel de administración
+[2025-06-07 23:52:50] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Login exitoso en panel de administración
+[2025-06-08 01:27:58] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Logout exitoso desde el panel de administración
+[2025-06-08 01:27:59] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Login exitoso en panel de administración
+[2025-06-09 21:57:24] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Login exitoso en panel de administración
+[2025-06-12 19:44:52] ÉXITO - Intento de acceso - IP: ::1 - UserID: 1 - Razón: Login exitoso en panel de administración
